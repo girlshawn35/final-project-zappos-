@@ -1,3 +1,7 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 header#utility {
 	height: 40px;
 	border: 1px solid black;
